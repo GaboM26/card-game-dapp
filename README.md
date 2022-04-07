@@ -1,4 +1,12 @@
 # DApp Game Application
+
+English:
+Programming project developed by a team of 6 for the LionHack Hackathon in Solidity.
+
+Spanish:
+Proyecto de programación desarrollado por un equipo de 6 para el hackathon LionHack en Solidity.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 For the LionHack Hackathon, as beginners into blockchain we started by exploring topics that we could base on some already known development. We also wanted to work towards working on Solidity from a blockchain developer perspective. Initially we started working on a bounty for the ViteX ecosystem. For this we had to utlize solidity++ as the ecosystem supports this extension of solidity. We also explored on stacking process works with ViteX as we had to retrive APR, 30 day transaction history and 7 day Moving Average of each of their user on a Yield Dashboard and present it in the graphical representation. For Dashboard we had intend to use ReactJs. 
 
 While exploring the ecosystem and connecting with the developers of ViteX, we came across that the API's are available to fetch the details fromt his system so it wont have much implementation in using SOlidity and we can directly create some standard backend functions which will sent the data to the dashboard. So for the hackathon we preferred to work on some blockchain tech implementation. 
